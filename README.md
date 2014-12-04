@@ -9,7 +9,7 @@ Brogrammer is a flat sexy theme. Pushups not included.
 
 ### Via Package Control
 
-Theme is listed as `Theme - Brogrammer` in Will Bond's [Sublime Package Control](https://sublime.wbond.net).
+Theme is listed as `Theme - Brogrammer` in Will Bond's [Sublime Package Control](https://packagecontrol.io/).
 
 ### Manual
 
